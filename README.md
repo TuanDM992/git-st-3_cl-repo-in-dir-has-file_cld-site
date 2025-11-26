@@ -1,1 +1,1 @@
-# git-study-3_clone-a-repo-in-existing-directory_with-file-already-in-dir_cloud-site
+# git-st-3_cl-repo-in-dir-has-file-cloud-site
